@@ -1,0 +1,17 @@
+﻿  main.c
+D:\NewProg\Proj\Snake\Snake\main.c(131,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\NewProg\Proj\Snake\Snake\main.c(171,1): warning C4026: function declared with formal parameter list
+D:\NewProg\Proj\Snake\Snake\main.c(219,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\NewProg\Proj\Snake\Snake\main.c(219,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\NewProg\Proj\Snake\Snake\main.c(219,12): message : the missing variadic argument 2 is required by format string '%c'
+D:\NewProg\Proj\Snake\Snake\main.c(219,12): message : this argument is used as a buffer size
+D:\NewProg\Proj\Snake\Snake\main.c(232,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\NewProg\Proj\Snake\Snake\main.c(232,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\NewProg\Proj\Snake\Snake\main.c(232,13): message : the missing variadic argument 2 is required by format string '%c'
+D:\NewProg\Proj\Snake\Snake\main.c(232,13): message : this argument is used as a buffer size
+D:\NewProg\Proj\Snake\Snake\main.c(248,68): warning C4020: 'processEvents': too many actual parameters
+D:\NewProg\Proj\Snake\Snake\main.c(264,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\NewProg\Proj\Snake\Snake\main.c(264,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\NewProg\Proj\Snake\Snake\main.c(264,10): message : the missing variadic argument 2 is required by format string '%c'
+D:\NewProg\Proj\Snake\Snake\main.c(264,10): message : this argument is used as a buffer size
+  Snake.vcxproj -> D:\NewProg\Proj\Snake\Debug\Snake.exe
